@@ -5,4 +5,4 @@ func _ready() -> void:
 	print("Witaj Świecie!!!")
 	print("New Tekst")
 func _draw() -> void:
-	pass
+	print("github")
